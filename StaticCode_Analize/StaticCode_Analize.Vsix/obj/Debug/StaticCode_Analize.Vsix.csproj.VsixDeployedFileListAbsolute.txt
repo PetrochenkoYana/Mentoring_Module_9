@@ -1,0 +1,7 @@
+C:\Users\Yana_Petrachenka\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Yana_Haiduk\StaticCode_Analize\1.0\\StaticCode_Analize.dll
+C:\Users\Yana_Petrachenka\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Yana_Haiduk\StaticCode_Analize\1.0\\extension.vsixmanifest
+C:\Users\Yana_Petrachenka\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Yana_Haiduk\StaticCode_Analize\1.0\\System.Web.Mvc.dll
+C:\Users\Yana_Petrachenka\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Yana_Haiduk\StaticCode_Analize\1.0\\Diagnostic.nuspec
+C:\Users\Yana_Petrachenka\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Yana_Haiduk\StaticCode_Analize\1.0\\tools\install.ps1
+C:\Users\Yana_Petrachenka\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Yana_Haiduk\StaticCode_Analize\1.0\\tools\uninstall.ps1
+C:\Users\Yana_Petrachenka\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Yana_Haiduk\StaticCode_Analize\1.0\\StaticCode_Analize.pdb

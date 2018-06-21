@@ -1,0 +1,14 @@
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\bin\Debug\Diagnostic.nuspec
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\bin\Debug\tools\install.ps1
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\bin\Debug\tools\uninstall.ps1
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\bin\Debug\StaticCode_Analize.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\bin\Debug\StaticCode_Analize.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\obj\Debug\StaticCode_Analize.Resources.resources
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\obj\Debug\StaticCode_Analize.csproj.GenerateResource.Cache
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\obj\Debug\StaticCode_Analize.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\obj\Debug\StaticCode_Analize.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\bin\Debug\StaticCode_Analize.dll.CodeAnalysisLog.xml
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\bin\Debug\StaticCode_Analize.dll.lastcodeanalysissucceeded
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\bin\Debug\System.Web.Mvc.dll
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\bin\Debug\System.Web.Mvc.xml
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\StaticCode_Analize\StaticCode_Analize\StaticCode_Analize\obj\Debug\StaticCode_Analize.csprojResolveAssemblyReference.cache
