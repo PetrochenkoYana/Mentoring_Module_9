@@ -1,0 +1,8 @@
+C:\Projects\Cake.XComponent\Cake.XComponent\bin\Debug\Cake.XComponent.dll
+C:\Projects\Cake.XComponent\Cake.XComponent\bin\Debug\Cake.XComponent.pdb
+C:\Projects\Cake.XComponent\Cake.XComponent\bin\Debug\Cake.XComponent.xml
+C:\Projects\Cake.XComponent\Cake.XComponent\bin\Debug\Cake.Core.dll
+C:\Projects\Cake.XComponent\Cake.XComponent\bin\Debug\Cake.Core.xml
+C:\Projects\Cake.XComponent\Cake.XComponent\obj\Debug\Cake.XComponent.csprojResolveAssemblyReference.cache
+C:\Projects\Cake.XComponent\Cake.XComponent\obj\Debug\Cake.XComponent.dll
+C:\Projects\Cake.XComponent\Cake.XComponent\obj\Debug\Cake.XComponent.pdb

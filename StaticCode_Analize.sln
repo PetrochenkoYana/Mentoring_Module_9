@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticCode_Analize.Test", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticCode_Analize.Vsix", "StaticCode_Analize\StaticCode_Analize.Vsix\StaticCode_Analize.Vsix.csproj", "{FFB2DFAF-5FA1-4A12-9FBD-E4E496F462D0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".appveyor", ".appveyor", "{9FE6130B-7432-4457-8AA4-475D4C0F0E19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

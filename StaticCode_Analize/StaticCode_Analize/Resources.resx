@@ -129,4 +129,40 @@
     <value>Type name contains lowercase letters</value>
     <comment>The title of the diagnostic.</comment>
   </data>
+  <data name="ControllerRuleAnalyzerDescription" xml:space="preserve">
+    <value>Type name should contain suffix 'Controller'.</value>
+    <comment>An optional longer localizable description of the diagnostic.</comment>
+  </data>
+  <data name="ControllerRuleAnalyzerMessageFormat" xml:space="preserve">
+    <value>Type name '{0}' does not end with 'Controller'</value>
+    <comment>The format-able message the diagnostic displays.</comment>
+  </data>
+  <data name="ControllerRuleAnalyzerTitle" xml:space="preserve">
+    <value>Type name should contain suffix 'Controller'</value>
+    <comment>Controllers naming.</comment>
+  </data>
+  <data name="AuthorizeControllerRuleAnalyzerDescription" xml:space="preserve">
+    <value>All controllers should have 'Authorize' attribute for class or each public method inside</value>
+    <comment>An optional longer localizable description of the diagnostic.</comment>
+  </data>
+  <data name="AuthorizeControllerRuleAnalyzerMessageFormat" xml:space="preserve">
+    <value>Type name '{0}' does marked by 'Authorize' attribute as well as all its public methods</value>
+    <comment>The format-able message the diagnostic displays.</comment>
+  </data>
+  <data name="AuthorizeControllerRuleAnalyzerTitle" xml:space="preserve">
+    <value>Authorized Controllers</value>
+    <comment>Controllers naming.</comment>
+  </data>
+  <data name="NamespaceRuleAnalyzerDescription" xml:space="preserve">
+    <value>All class should be marked with 'DataContract' attribute, be public and have 'Id' and 'Name' properties.</value>
+    <comment>An optional longer localizable description of the diagnostic.</comment>
+  </data>
+  <data name="NamespaceRuleAnalyzerMessageFormat" xml:space="preserve">
+    <value>Type name '{0}' does not meet rules.</value>
+    <comment>The format-able message the diagnostic displays.</comment>
+  </data>
+  <data name="NamespaceRuleAnalyzerTitle" xml:space="preserve">
+    <value>Namespace rules</value>
+    <comment>Controllers naming.</comment>
+  </data>
 </root>
